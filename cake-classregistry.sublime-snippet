@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ClassRegistry::init(${1:'ModelName'})]]></content>
+    <tabTrigger>ClassRegistery</tabTrigger>
+    <scope>source.php</scope>
+    <description>CakePHP ClassRegistery::init()</description>
+</snippet>

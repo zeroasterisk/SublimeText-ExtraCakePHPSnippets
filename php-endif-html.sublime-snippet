@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<?php endif; ?>]]></content>
+    <tabTrigger>_endif</tabTrigger>
+    <scope>text.html.textile</scope>
+    <description>PHP endif; ?>(common for CakePHP views)</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[<?php if (${3:isset(${1:$data['Model']['field']}) && !empty(${2:$data['Model']['field']})}): ?>
+	${4:<!-- code... -->}
+<?php else: ?>
+	${5:<!-- code... -->}
+<?php endif; ?>
+]]></content>
+    <tabTrigger>_ifelse</tabTrigger>
+    <scope>text.html.textile</scope>
+    <description>?php if _ else ?</description>
+</snippet>
