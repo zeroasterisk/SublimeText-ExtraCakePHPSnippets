@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Configure::load(${1:'config_filename'})]]></content>
+    <tabTrigger>ConfigureLoad</tabTrigger>
+    <scope>source.php</scope>
+    <description>CakePHP Configure::load('config_file')</description>
+</snippet>

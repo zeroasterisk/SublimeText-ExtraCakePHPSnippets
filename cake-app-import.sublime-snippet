@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[App::import('${1:Model}', '${2:ModelName}');]]></content>
+    <tabTrigger>AppImport</tabTrigger>
+    <scope>source.php</scope>
+    <description>CakePHP App::import() v1.3</description>
+</snippet>

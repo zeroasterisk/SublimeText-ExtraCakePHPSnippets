@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Configure::write(${1:'Parent.key'}, ${2:$value})]]></content>
+    <tabTrigger>ConfigureWrite</tabTrigger>
+    <scope>source.php</scope>
+    <description>CakePHP Configure::write()</description>
+</snippet>
